@@ -1,1 +1,1 @@
-file 7 is conflicting file
+file 7 is conflicting file and file 7 is new file
